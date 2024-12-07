@@ -37,9 +37,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=angular,aws,azure,bootstrap,csharp,css,debian,docker,dotnet,elasticsearch,redux" />
+    <img src="https://skillicons.dev/icons?i=angular,aws,azure,bootstrap,cs,css,debian,docker,dotnet,elasticsearch,redux" />
     <img src="https://skillicons.dev/icons?i=express,git,gitlab,github,graphql,html,javascript,kafka,kubernetes,mui,mongodb" />
-    <img src="https://skillicons.dev/icons?i=nestjs,nextjs,nodejs,npm,postgre,postman,rabbitmq,react,redis,sass,supabase" />
+    <img src="https://skillicons.dev/icons?i=nestjs,nextjs,nodejs,npm,postgres,postman,rabbitmq,react,redis,sass,supabase" />
     <img src="https://skillicons.dev/icons?i=tailwind,threejs,typescript,vscode,vercel,visualstudio,vite" />
     <br>
 </div>
