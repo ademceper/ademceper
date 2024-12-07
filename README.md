@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ademceper" alt="ademceper" /></a> </p>
 
-- 🔭 I’m currently working on **Kurumsal Süreç Yönetim Sistemi**
+- 🔭 I’m currently working on **Enterprise Process Management System**
 
 - 🌱 I’m currently learning **WebGL**
 
-- 👯 I’m looking to collaborate on **Çok Satıcılı E-Ticaret Platformu**
+- 👯 I’m looking to collaborate on **Multi-Vendor E-Commerce Platform**
 
-- 🤝 I’m looking for help with **Blockchain Tabanlı Veri Yönetim Sistemi**
+- 🤝 I’m looking for help with **Blockchain Based Data Management System**
 
 - 👨‍💻 All of my projects are available at [www.ademceper.com](www.ademceper.com)
 
