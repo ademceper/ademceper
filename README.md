@@ -40,7 +40,8 @@
     <img src="https://skillicons.dev/icons?i=angular,aws,azure,bootstrap,cs,css,debian,docker,dotnet,elasticsearch,redux" />
     <img src="https://skillicons.dev/icons?i=express,git,gitlab,github,graphql,html,javascript,kafka,kubernetes,mui,mongodb" />
     <img src="https://skillicons.dev/icons?i=nestjs,nextjs,nodejs,npm,postgres,postman,rabbitmq,react,redis,sass,supabase" />
-    <img src="https://skillicons.dev/icons?i=tailwind,threejs,typescript,vscode,vercel,visualstudio,vite" />
+    <img src="https://skillicons.dev/icons?i=tailwind,threejs,typescript,vscode,vercel,visualstudio,vite,ansible,fastapi,go,grafana" />
+    <img src="https://skillicons.dev/icons?i=jenkins,prisma,prometheus,py,terraform" />
     <br>
 </div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ademceper&show_icons=true&locale=en&layout=compact" alt="ademceper" /></p>
